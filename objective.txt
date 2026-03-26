@@ -1,0 +1,9 @@
+Objective:
+Each participant will work on integrating, processing, and analyzing the assigned use cases and KPIs using modern data engineering tools. The focus will be on data preparation, transformation, and structured analysis.
+ 
+Use Case:
+Data Ingestion:  Choose your preferred location to store source data and then ingest data from it.
+Data Processing: Perform data cleansing and transformation using Databricks or Fabric.
+Data Analysis: Build a data cube with key KPIs for evaluation.
+Orchestration: Create jobs/pipeline to orchestrate your code.
+ 
