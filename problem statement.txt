@@ -1,0 +1,20 @@
+Hands-on Exercise: Dataset & Use Cases
+ 
+You will be provided with a dataset and related use cases. Please:
+Go through the dataset and build a clear understanding of the data
+Perform feature engineering
+Frame relevant hypotheses
+Validate the hypotheses using appropriate statistical methods
+Conduct exploratory data analysis (EDA) to derive insights
+Note: This is a hands-on activity. Please wait for further instructions on when to begin.
+ 
+Instructions
+Use Jupyter Notebook for the analysis
+Use Markdown cells to clearly explain:
+What each code cell is doing
+Key observations and findings
+Follow the naming convention for your notebook:
+int_<your_number>_<your_name>_hypothesis_testing
+
+
+Predict household electricity consumption for demand forecasting.
